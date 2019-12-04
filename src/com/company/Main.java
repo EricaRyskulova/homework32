@@ -18,7 +18,7 @@ public class Main {
                 "…\n", "rock");
         System.out.println(song);
 
-        FileWriter fileWriter = new FileWriter("nothing else matters.txt");
+        FileWriter fileWriter = new FileWriter("file2.txt");
 //        FileReader fileReader = new FileReader("file.txt");
         fileWriter.write("Name: Power ballad, Performer: James Hetfield, text:  \"So close, no matter how far\\n\" +\n" +
                 "                \"Couldn't be much more from the heart\" +\n" +
